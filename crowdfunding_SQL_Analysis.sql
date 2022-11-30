@@ -3,7 +3,6 @@
 -- Retrieve all the number of backer_counts in descending order for each `cf_id` for the "live" campaigns. 
 
 
-
 -- 2. (2.5 pts)
 -- Using the "backers" table confirm the results in the first query.
 
